@@ -5,8 +5,7 @@ Scenario 3: Smart Library Transaction & Archival System
 ** Table of Contents **
 - C++ Source Code
 - System Technical Documentation
-- Software Architecture Diagram 
-- Program Flowchart / Data Flow Diagram 
+- Pointer Structural Diagram / Program Flowchart
 - System Application Screenshots 
 - Benchmark Results Log & Charts 
 - Test-Case Results Log
